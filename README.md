@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Neha Khan</h1>
 
-🎓 **CSE Student** at Jagannath University, Bangladesh
+<h3 align="center">CSE Student at Jagannath University, Bangladesh</h3>
 
 ## 🌱 Currently Learning
 
