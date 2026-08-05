@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Neha Khan 👋
 
-<!--
-**neha-khan02/neha-khan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE Student** at Jagannath University, Bangladesh
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS (Coming Soon)
+* C
+* C++
+
+## 💻 Skills
+
+* HTML
+* C
+* C++
+* Microsoft Word
+* Microsoft PowerPoint
+
+## 🎯 Goals
+
+* Become a Full-Stack Web Developer
+* Build real-world projects
+* Contribute to Open Source
+
+## 📂 Featured Projects
+
+* HTML Portfolio
+* Resume Website
+* Restaurant Website
+* Login Page
+* Registration Form
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/neha-khan02
+
+⭐ Thanks for visiting my profile!
