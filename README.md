@@ -1,7 +1,7 @@
 <p align="center">
   <img src="ChatGPT Image Aug 5, 2026, 10_57_45 AM.png" width="100%">
 </p>
-# Hi there, I'm Neha Khan 👋
+## Hi there, I'm Neha Khan 👋
 
 🎓 **CSE Student** at Jagannath University, Bangladesh
 
